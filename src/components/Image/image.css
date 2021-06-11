@@ -1,0 +1,14 @@
+.image-container {
+	height: 700px;
+}
+
+.images {
+	display: flex;
+	justify-content: space-between;
+}
+
+img {
+	height: 450px;
+	width: 500px;
+	border-radius: 15px;
+}
